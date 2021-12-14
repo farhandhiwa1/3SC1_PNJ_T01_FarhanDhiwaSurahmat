@@ -1,5 +1,4 @@
-NO. REG	: 2020010043
-NAMA	: Farhan Dhiwa Surahmat
-Jurusan	: TI Reg
-
-G
+NO. REG		: 2020010043
+NAMA		: Farhan Dhiwa Surahmat
+Jurusan		: TI Reg
+Angkatan	: 2020
